@@ -1,0 +1,33 @@
+body{
+    background-color: bisque;
+}
+
+.wrapper {
+    width: 78%;
+    margin-left: 10%;
+  }
+
+table {
+    
+    text-align: center;
+   
+  }
+
+  #tbody tr:nth-child(odd) {
+    background-color: #acbbc9;
+  }
+  
+  td,th {
+    padding: 12px;
+  }
+  #table {
+    margin-top: 12px;
+    width: 610px;
+  }
+  
+  
+  #os,#brand,#search-input {
+    padding: 5px;
+  }
+
+ 
